@@ -1,0 +1,8 @@
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\bin\Debug\MinmumCandies.exe.config
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\bin\Debug\MinmumCandies.exe
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\bin\Debug\MinmumCandies.pdb
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\obj\Debug\MinimumCandies.csproj.AssemblyReference.cache
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\obj\Debug\MinimumCandies.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\obj\Debug\MinimumCandies.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\obj\Debug\MinmumCandies.exe
+D:\Visual Studio Repo\MinimumCandies\MinimumCandies\obj\Debug\MinmumCandies.pdb
